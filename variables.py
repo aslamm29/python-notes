@@ -17,3 +17,7 @@ print(AGE)
 # The variables are in snake case as a convention as opposed to camel case
 # Variables with double underscore must not be changed, more priority than variables in uppercase, if changed can break something
 # The data types of variables are not required to be mentioned for eg: int, float, string etc. This is called as dynamic typing
+
+total_score = None
+# null == None; in python
+print(total_score)

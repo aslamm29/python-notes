@@ -10,3 +10,6 @@ Python Notes:
 3. The variables are in snake case as a convention as opposed to camel case
 4. Variables with double underscore must not be changed, more priority than variables in uppercase, if changed can break something
 5. The data types of variables are not required to be mentioned for eg: int, float, string etc. This is called as dynamic typing
+
+# Null in Python:
+Null is python is known as None in proper casing
