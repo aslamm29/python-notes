@@ -3,3 +3,10 @@ Python Notes:
 1. Can use print() method to display data similar to console.log()
 2. Can use python interpretor on the console just by entering python on the console
 3. # is used for comments
+
+# Variable Conventions:
+1. There are no constants like in JS, every variable can be reassigned
+2. The variable that are meant to be constants are in capital letters, please do not reassign
+3. The variables are in snake case as a convention as opposed to camel case
+4. Variables with double underscore must not be changed, more priority than variables in uppercase, if changed can break something
+5. The data types of variables are not required to be mentioned for eg: int, float, string etc. This is called as dynamic typing
